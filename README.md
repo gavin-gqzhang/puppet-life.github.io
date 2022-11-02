@@ -1,0 +1,1 @@
+# puppet-life.github.io
